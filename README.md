@@ -1,4 +1,5 @@
-= OSTools
+OSTools
+==========
 
 This a utility gem for the [Oneslate](http://oneslate.com) app.  OSTools provides the following functionality for Postgres through the [Sequel](http://sequel.jeremyevans.net/) database toolkit:
 
