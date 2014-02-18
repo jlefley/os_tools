@@ -9,3 +9,5 @@ This a utility gem for the [Oneslate](http://oneslate.com) app.  OSTools provide
   - Create and remove Postgres schemas from Ruby
   - Provide rake task to copy Sequel migrations from Rails engine to host app (code based on same task from ActiveRecord)
   - Expands [sequel_postgres_triggers](https://github.com/jeremyevans/sequel_postgresql_triggers) with helper methods, triggers to move deleted records to an archive table, and methods to create and update an archive table's definition from an existing table's definition
+
+MIT license
