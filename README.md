@@ -1,7 +1,7 @@
 OSTools
 ==========
 
-This a utility gem for the [Oneslate](http://oneslate.com) app.  OSTools provides the following functionality for Postgres through the [Sequel](http://sequel.jeremyevans.net/) database toolkit:
+This a utility gem/Rails engine for the [Oneslate](http://oneslate.com) app.  OSTools provides the following functionality for Postgres through the [Sequel](http://sequel.jeremyevans.net/) database toolkit:
 
   - Dump (using pg_dump) and load database schema/structure with provisions for multitenency support through Postgres schemas
   - Dump and load data from individual tables using Postgres COPY
